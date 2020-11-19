@@ -1,0 +1,10 @@
+env:
+  host: 10.12.70.39
+  ldap_port: 28102
+  rbac_port: 28101
+
+DB:
+ host: 10.12.70.40
+ port: 3306
+ user: root
+ password: Nmzw$yjd2@19
